@@ -1,1 +1,1 @@
-# infa_2022_borodenkin
+# MIPT Labs
